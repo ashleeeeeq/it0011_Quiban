@@ -17,4 +17,3 @@ print("Gender:", gender)
 print("Birthday:", bday)
 print("Address:", address)
 print("\n└──                                       ──┘")
-
