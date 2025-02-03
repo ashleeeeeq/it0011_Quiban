@@ -1,0 +1,6 @@
+┌──              STUDENT INFO             ──┐
+Full name: Quiban, Janna Ashley
+Age: 20
+Contact No.: 09123456789
+Course and Year Level: IT | 2nd Yea
+└──                                       ──┘
