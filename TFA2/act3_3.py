@@ -17,4 +17,4 @@ f = open("students.txt", "a", encoding="utf-8")
 f.write(stud_info)
 f.close
 
-print("\nStudent information has been saved to 'students.txxt'.")
+print("\nStudent information has been saved to 'students.txt'.")
