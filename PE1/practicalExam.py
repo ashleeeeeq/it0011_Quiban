@@ -33,7 +33,7 @@ for word in word_count:
 lowercase_words.sort()
 uppercase_words.sort()
 
-# Display results and the total words filtered
+# Display results and the total words filtered 
 print("\n------------------------------------------------------------")
 print("                       WORD COUNTER")
 print("------------------------------------------------------------")
