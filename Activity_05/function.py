@@ -5,7 +5,7 @@ def divide(num1, num2):
         return None
     return num1 / num2
 
-# for exponentiate function
+# for exponent function
 def exponentiate(base, exponent):
     return base ** exponent
 
@@ -26,11 +26,9 @@ def summation(start, end):
 # Menu
 while True:
     print("\n---------- MATHEMATICAL MENU ----------")
-    print("           [D] Divide")
-    print("           [E] Exponentiation")
-    print("           [R] Remainder")
-    print("           [F] Summation")
-    print("           [X] Exit")
+    print("   [D] Divide     [E] Exponentiation")
+    print("   [R] Remainder  [F] Summation")
+    print("   [X] Exit")
     print("---------------------------------------")
     
     choice = input("Enter your choice: ").strip().upper()
