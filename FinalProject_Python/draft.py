@@ -2,13 +2,11 @@
 # wala ako maisip na variable name kaya FILE_NAME na lang (for now)
 FILE_NAME = "records.txt"
 
-    """ 
-        Function to count existing records
-        
-        since may ginawa akong parang format sa pag-store ng records,
-        ic-check niya kung ilan na yung existing records and kung wala pa, start sa 1 yung record number
-        kung meron na, yung next record number na yung gagamitin
-    """
+# Function to count existing records
+# #since may ginawa akong parang format sa pag-store ng records,
+# ic-check niya kung ilan na yung existing records and kung wala pa, start sa 1 yung record number
+# kung meron na, yung next record number na yung gagamitin
+
 def count_existing_records():
     try:
         file = open(FILE_NAME, "r")
@@ -23,6 +21,9 @@ def count_existing_records():
         
         mag-aask siya ng first name, middle name, last name, birthday, and gender
         then i-store niya yung record sa file in the requested format (which is kaartehan ko lang naman)
+        
+        then naisip ko ulit na what if maglagay tayo ng randomizer para mag-generate ng record number or
+        like id nila? para yon nalang ilalagay sa search function and hindi na yung name?
     """
 def sign_up():
     print("\n---------- SIGN-UP FORM ----------")
