@@ -1,0 +1,5 @@
+Product ID: 101
+Product Name: Gaming Mouse
+Product Description: Wireless gaming mouse
+Product Price: Php 380.00
+
