@@ -28,3 +28,21 @@ ID: 202500005
 Name: Puking May Tahi
 Birthday: 01-01-2001
 Gender: Female
+
+Record #6
+ID: 202500006
+Name: Ashley Janna Hermano
+Birthday: 03-29-2004
+Gender: Female
+
+Record #7
+ID: 202500007
+Name: Hatdog Na Pinasok saFreezer
+Birthday: 03-29-2000
+Gender: Female
+
+Record #8
+ID: 202500008
+Name: Hahshasd fds asde
+Birthday: 01-02-1900
+Gender: Male
