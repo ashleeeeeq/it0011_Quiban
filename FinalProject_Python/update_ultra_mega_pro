@@ -455,7 +455,7 @@ class ConfirmExit:
     def confirm_exit(self):
         response = messagebox.askyesno("Exit Confirmation", "Do you want to exit the program?")
         if response:  
-            messagebox.showinfo("Goodbye!", "Thank you for using our program!")
+            messagebox.showinfo("CodeDesk", "Thank you for using our program!")
             self.root.quit()
 
 # Main GUI class that integrates all functionalities.
